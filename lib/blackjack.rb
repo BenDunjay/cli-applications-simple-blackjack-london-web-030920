@@ -66,9 +66,7 @@ def runner
 welcome
 total += initial_round
 hit?(total)
-binding.pry
-if total > 21
-  end_game(total)
+display_card_total(total)
 
 end
 end
