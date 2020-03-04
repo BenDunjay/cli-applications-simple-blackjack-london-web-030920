@@ -66,7 +66,7 @@ def runner
 welcome
 total += initial_round
 hit?(total)
-
+binding.pry
 
 
 end
