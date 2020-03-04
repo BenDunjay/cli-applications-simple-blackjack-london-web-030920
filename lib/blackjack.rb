@@ -64,5 +64,6 @@ end
 def runner
 welcome
 2.times{deal_card}
+binding.pry
 end
     
