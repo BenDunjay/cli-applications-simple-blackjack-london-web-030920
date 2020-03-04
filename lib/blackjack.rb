@@ -63,6 +63,6 @@ end
 
 def runner
 welcome
-
+2.times
 end
     
