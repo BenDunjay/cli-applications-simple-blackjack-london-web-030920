@@ -64,7 +64,8 @@ end
 def runner
 welcome
 initial_round
-
+hit?
+  if
 
 binding.pry
 end
