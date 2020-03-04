@@ -47,7 +47,6 @@ def hit?(current_total)
       return current_total
     elsif stick_or_hit == "h"
       current_total += deal_card
-      binding.pry
     else 
       invalid_command
       prompt_user
