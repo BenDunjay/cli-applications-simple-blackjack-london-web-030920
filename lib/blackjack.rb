@@ -63,7 +63,7 @@ end
 
 def runner
 welcome
-display_card_total(initial_round)
+initial_round
 
 
 binding.pry
