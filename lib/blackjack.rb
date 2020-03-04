@@ -66,7 +66,6 @@ welcome
 initial_round
 
 
-binding.pry
 
 end
     
