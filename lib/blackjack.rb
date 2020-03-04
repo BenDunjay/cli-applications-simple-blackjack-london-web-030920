@@ -40,6 +40,7 @@ end
 
 def hit?(current_total)
   prompt_user
+  get_user_input
   stick_or_hit = get_user_input
   
 
