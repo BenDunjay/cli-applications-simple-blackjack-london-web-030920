@@ -34,7 +34,7 @@ display_card_total(sum)
 end
 
 def invalid_command
-  prints "Please enter a valid command"
+  print "Please enter a valid command"
 end
 
 
